@@ -1,17 +1,8 @@
 <dividir alinhar="centro">
 
-```
-███╗   ███╗ █████╗ ██╗   ██╗ ██████╗██╗  ██╗ ██████╗ ███╗   ██╗
-████╗ ████║██╔══██╗╚██╗ ██╔╝██╔════╝██║  ██║██╔═══██╗████╗  ██║
-██╔████╔██║███████║ ╚████╔╝ ██║ ███████║██║ ██║██╔██╗ ██║
-██║╚██╔╝██║██╔══██║ ╚██╔╝ ██║ ██╔══██║██║ ██║██║╚██╗██║
-██║ ╚═╝ ██║██║ ██║ ██║ ╚██████╗██║
-╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═════╝╚═╝ ╚═╝
-```
+[![Digitando SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=99999&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=MAYCHON+VILANI)](https://git.io/typing-svg)
 
-### `> Profissional de dados full stack`
-
-[![Digitando SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Analytics+%7C+Data+Science;Pipelines+Escaláveis+%7C+Modelos+Preditivos;Transformando+Dados+Brutos+em+Decisões+Estratégicas)](https://git.io/typing-svg)
+[![Digitando SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B8FA8&center=true&vCenter=true&width=600&lines=Full+Stack+Data+Professional+%7C+%F0%9F%87%A7%F0%9F%87%B7+Brasil;Data+Engineering+%7C+Analytics+%7C+Data+Science;Pipelines+Escal%C3%A1veis+%7C+Modelos+Preditivos;Transformando+Dados+em+Decis%C3%B5es+Estrat%C3%A9gicas)](https://git.io/typing-svg)
 
 </dividir>
 
@@ -19,49 +10,24 @@
 
 ## `$ uau`
 
-<mesa fronteira="0" espaçamento entre células="0" preenchimento de células="0">
-<tr>
-<td>
-
-### Maychon Vilani
-**Profissional de dados full stack** &nbsp;·&nbsp; 🇧🇷 Brasil
-
-`Engenharia de Dados` &nbsp; `Análise` &nbsp; `Ciência de Dados`
-
-</td>
-</tr>
-</mesa>
+![Papel](https://img.shields.io/badge/Role-Full_Stack_Data_Professional-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF&logoColor=00F5FF)
+![Localização](https://img.shields.io/badge/Location-Brasil_🇧🇷-0D1117?style=for-the-badge&labelColor=0D1117&color=444C56)
 
 <br>
 
-<mesa fronteira="0" largura="100%">
-<tr>
-<td alinhar="centro" largura="33%" estilo="enchimento: 16px;">
+![Engenharia de Dados](https://img.shields.io/badge/🔄_Data_Engineering-Pipelines_escaláveis_end--to--end-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
 
-**🔄 Engenharia**
-<br><sub>Oleodutos escaláveis de ponta a ponta</sub>
+![Ciência de Dados](https://img.shields.io/badge/🤖_Data_Science-Modelos_preditivos_orientados_a_negócio-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
 
-</td>
-<td alinhar="centro" largura="33%" estilo="enchimento: 16px;">
+![Análise](https://img.shields.io/badge/📊_Analytics-Insights_acionáveis_que_movem_KPIs-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
 
-**🤖 Ciência**
-<br><sub>Modelos preditivos orientados a negócio</sub>
-
-</td>
-<td alinhar="centro" largura="33%" estilo="enchimento: 16px;">
-
-**📊 Análise**
-<br><sub>Insights ativos que movem KPIs</sub>
-
-</td>
-</tr>
-</mesa>
+![Missão](https://img.shields.io/badge/🎯_Missão-Transformo_dados_brutos_em_decisões_estratégicas-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF)
 
 <br>
 
 > *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
 
-![Status](https://img.shields.io/badge/🟢_Atualmente-Construindo_soluções_end--to--end_orientadas_a_dados-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end_orientadas_a_dados-238636?style=flat-square&labelColor=238636&color=238636)
 
 ---
 
@@ -72,22 +38,22 @@
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
 
 ### ☁️ Nuvem e Big Data
-![GCP](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![BPC](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Consulta Grande](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4)
+![Apache Faísca](https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![Fluxo de ar Apache](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 
-### 🗄️ Armazenamento & Bancos
+### 🗄️ Armazenamento e Bancos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![NoSQL](https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ### 📊 BI & Visualização
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627)
+![Energia BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Quadro](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627)
 
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+### 🤖 Aprendizado de máquina
+![Scikit-aprender](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
 
@@ -158,7 +124,7 @@
 ### 🚀 Em Construção...
 **Próximo projeto em desenvolvimento.**
 
-Conecte-se para acompanhar os próximos lamentações e contribuições open-source na área de dados.
+Conecte-se para acompanhar os próximos lamentos e contribuições open-source na área de dados.
 
 [![LinkedIn](https://img.shields.io/badge/Acompanhe_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
@@ -172,9 +138,9 @@ Conecte-se para acompanhar os próximos lamentações e contribuições open-sou
 
 <dividir alinhar="centro">
 
-<imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api?username=Maychon&maisrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&ícone_cor=00F5FF&texto_cor=C9D1D9"/>
+<imagem altura="180em" fonte="https://github-readme-stats.vercel.app/api?username=Maychon&mostrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&ícone_cor=00F5FF&texto_cor=C9D1D9"/>
 
-<imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&layout=compacto&contagem_langs=8&tema=tokyonight&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&texto_cor=C9D1D9"/>
+<imagem altura="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&layout=compacto&contagem_langs=8&tema=tokyonight&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&texto_cor=C9D1D9"/>
 
 </dividir>
 

@@ -10,50 +10,16 @@
 
 ## $ uau
 
-<mesa>
-<tr>
-<td><b>🧑‍💻 Papel</b></td>
-<td>Profissional de dados full stack</td>
-</tr>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
 
-<tr>
-<td><b>📍 Localização</b></td>
-<td>Brasil 🇧🇷</td>
-</tr>
-
-<tr>
-<td><b>🔄 Engenharia de Dados</b></td>
-<td>Oleodutos escaláveis de ponta a ponta</td>
-</tr>
-
-<tr>
-<td><b>🤖 Ciência de Dados</b></td>
-<td>Modelos preditivos orientados a negócio</td>
-</tr>
-
-<tr>
-<td><b>📊 Análise</b></td>
-<td>Insights ativos que movem KPIs</td>
-</tr>
-
-<tr>
-<td><b>🎯 Missão</b></td>
-<td>Transformo dados brutos em decisões estratégicas</td>
-</tr>
-</mesa>
-
-<br>
-
-> *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
-
-<br>
-
-![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end-238636?style=for-the-badge)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117" />
+</p>
 
 ---
-
-<imagem fonte="https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end-238636?style=for-the-badge" />
-
 ## `$ tecnologia --pilha`
 
 ### ⚡ Linguagens e Núcleo

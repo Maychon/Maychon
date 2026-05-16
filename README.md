@@ -8,7 +8,7 @@
 
 ---
 
-mãehttps://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end_orientadas_a_dados-238636?style=flat-square&labelColor=238636&color=238636`$ uau`
+## `$ uau`
 
 ![Papel](https://img.shields.io/badge/Role-Full_Stack_Data_Professional-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF&logoColor=00F5FF)
 ![Localização](https://img.shields.io/badge/Location-Brasil_🇧🇷-0D1117?style=for-the-badge&labelColor=0D1117&color=444C56)
@@ -29,8 +29,6 @@ mãehttps://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end
 
 ![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end_orientadas_a_dados-238636?style=flat-square&labelColor=238636&color=238636)
 
----
- 
 ---
 
 ## `$ tecnologia --pilha`
@@ -55,7 +53,7 @@ mãehttps://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end
 ![Quadro](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627)
 
 ### 🤖 Aprendizado de máquina
-![Aprender Scikit](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Scikit-aprender](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
 
@@ -69,70 +67,60 @@ mãehttps://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end
 
 ## `$ ls ./projects --featured`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🔄 Pipeline ETL — Gestão de Contratos
-**Problema:** Dados críticos de contratos fragmentados em silos (Salesforce, SAP, BigQuery), sem visibilidade unificada para as gerências tomarem decisões.
+![Project](https://img.shields.io/badge/01-Pipeline_ETL_|_Gestão_de_Contratos-00F5FF?style=for-the-badge&labelColor=161B22)
 
-**Solução Tech:**
-- Ingestão multi-source via **Apache Airflow**
-- Transformação e modelagem com **Python + Spark**
-- Destino centralizado no **BigQuery** (Star Schema)
-- Camada semântica para consumo analítico
+![Problem](https://img.shields.io/badge/🔍_Problema-Dados_fragmentados_em_silos_(Salesforce,_SAP,_BigQuery)_sem_visibilidade_unificada-444C56?style=flat-square&labelColor=21262D)
 
-**Impacto:** Redução de lead time para insights gerenciais de dias para minutos, com fonte única da verdade para dados contratuais.
+![Solution](https://img.shields.io/badge/⚙️_Solução-Ingestão_multi--source_·_Airflow_·_Spark_·_Star_Schema_no_BigQuery-1F6FEB?style=flat-square&labelColor=21262D)
 
-`Python` `Airflow` `Spark` `GCP` `BigQuery` `SQL`
+![Impact](https://img.shields.io/badge/🚀_Impacto-Lead_time_de_insights_reduzido_de_dias_para_minutos-238636?style=flat-square&labelColor=21262D)
 
-</td>
-<td width="50%" valign="top">
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5FF)
+![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Spark](https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![GCP](https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=4285F4)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F5FF)
 
-### 📊 Dashboard de Contratos em Tempo Real
-**Problema:** Equipes de gestão sem visibilidade em tempo real do status, vencimentos e riscos do portfólio de contratos.
+---
 
-**Solução Tech:**
-- Conexão direta com **BigQuery** (fonte de verdade)
-- Modelagem dimensional e KPIs definidos com stakeholders
-- Dashboards interativos em **Power BI / Tableau**
-- Alertas automáticos para contratos críticos
+![Project](https://img.shields.io/badge/02-Dashboard_de_Contratos_em_Tempo_Real-00F5FF?style=for-the-badge&labelColor=161B22)
 
-**Impacto:** Monitoramento proativo do portfólio, redução de contratos vencidos não renovados e aumento da visibilidade executiva.
+![Problem](https://img.shields.io/badge/🔍_Problema-Sem_visibilidade_em_tempo_real_de_status,_vencimentos_e_riscos_contratuais-444C56?style=flat-square&labelColor=21262D)
 
-`Power BI` `Tableau` `BigQuery` `SQL` `DAX`
+![Solution](https://img.shields.io/badge/⚙️_Solução-KPIs_com_stakeholders_·_Power_BI_/_Tableau_·_Alertas_automáticos-1F6FEB?style=flat-square&labelColor=21262D)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![Impact](https://img.shields.io/badge/🚀_Impacto-Monitoramento_proativo_e_redução_de_contratos_vencidos_não_renovados-238636?style=flat-square&labelColor=21262D)
 
-### 🤖 Modelo Preditivo de Bonificação
-**Problema:** Projeções de bonificação realizadas manualmente em planilhas, sem precisão e com alto esforço operacional.
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=E97627)
+![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=4285F4)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F5FF)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811)
 
-**Solução Tech:**
-- Feature Engineering sobre dados históricos de performance
-- Modelagem preditiva com **Scikit-learn** (Regressão / Gradient Boosting)
-- Pipeline de inferência automatizado com **Airflow**
-- Output integrado ao dashboard gerencial
+---
 
-**Impacto:** Projeções automatizadas com alta acurácia, eliminando retrabalho e dando à liderança visibilidade antecipada dos custos de bonificação.
+![Project](https://img.shields.io/badge/03-Modelo_Preditivo_de_Bonificação-00F5FF?style=for-the-badge&labelColor=161B22)
 
-`Python` `Scikit-learn` `Airflow` `BigQuery` `Pandas`
+![Problem](https://img.shields.io/badge/🔍_Problema-Projeções_manuais_em_planilhas,_sem_precisão_e_com_alto_esforço_operacional-444C56?style=flat-square&labelColor=21262D)
 
-</td>
-<td width="50%" valign="top">
+![Solution](https://img.shields.io/badge/⚙️_Solução-Feature_Engineering_·_Scikit--learn_·_Pipeline_de_inferência_com_Airflow-1F6FEB?style=flat-square&labelColor=21262D)
 
-### 🚀 Em Construção...
-**Próximo projeto em desenvolvimento.**
+![Impact](https://img.shields.io/badge/🚀_Impacto-Projeções_automatizadas_com_alta_acurácia_e_visibilidade_antecipada_de_custos-238636?style=flat-square&labelColor=21262D)
 
-Conecte-se para acompanhar os próximos lamentos e contribuições open-source na área de dados.
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=4285F4)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
 
-[![LinkedIn](https://img.shields.io/badge/Acompanhe_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+---
 
-</td>
-</tr>
-</mesa>
+![WIP](https://img.shields.io/badge/04-Em_Construção..._🚧-F0883E?style=for-the-badge&labelColor=161B22)
+
+[![LinkedIn](https://img.shields.io/badge/Acompanhe_no_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maychon-vilani)
 
 ---
 
@@ -140,9 +128,9 @@ Conecte-se para acompanhar os próximos lamentos e contribuições open-source n
 
 <dividir alinhar="centro">
 
-<imagem altura="180em" fonte="https://github-readme-stats.vercel.app/api?username=Maychon&mostrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&ícone_cor=00F5FF&texto_cor=C9D1D9"/>
+<imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api?username=Maychon&maisrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&ícone_cor=00F5FF&texto_cor=C9D1D9"/>
 
-<imagem altura="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&layout=compacto&contagem_langs=8&tema=tokyonight&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&texto_cor=C9D1D9"/>
+<imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&layout=compacto&contagem_langs=8&tema=tokyonight&ocultar_fronteira=verdadeiro&bg_color=0D1117&título_cor=00F5FF&texto_cor=C9D1D9"/>
 
 </dividir>
 
@@ -175,3 +163,4 @@ Conecte-se para acompanhar os próximos lamentos e contribuições open-source n
 ![Visualizações de perfil](https://komarev.com/ghpvc/?username=Maychon&color=00F5FF&style=flat-square&label=PROFILE+VIEWS)
 
 </dividir>
+[![Conecte-se para acompanhar os próximos lamentações e contribuições de código aberto na área de dados.![Conecte-se para acompanhar os próximos lamentações e contribuições open-source na área de dados.

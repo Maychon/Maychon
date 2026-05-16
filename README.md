@@ -8,24 +8,28 @@
 
 ---
 
-## `$ uau`
- 
+mãehttps://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end_orientadas_a_dados-238636?style=flat-square&labelColor=238636&color=238636`$ uau`
+
 ![Papel](https://img.shields.io/badge/Role-Full_Stack_Data_Professional-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF&logoColor=00F5FF)
 ![Localização](https://img.shields.io/badge/Location-Brasil_🇧🇷-0D1117?style=for-the-badge&labelColor=0D1117&color=444C56)
- 
+
 <br>
+
 ![Engenharia de Dados](https://img.shields.io/badge/🔄_Data_Engineering-Pipelines_escaláveis_end--to--end-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
- 
+
 ![Ciência de Dados](https://img.shields.io/badge/🤖_Data_Science-Modelos_preditivos_orientados_a_negócio-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
- 
+
 ![Análise](https://img.shields.io/badge/📊_Analytics-Insights_acionáveis_que_movem_KPIs-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
- 
+
 ![Missão](https://img.shields.io/badge/🎯_Missão-Transformo_dados_brutos_em_decisões_estratégicas-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF)
- 
+
 <br>
+
 > *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
- 
+
 ![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end_orientadas_a_dados-238636?style=flat-square&labelColor=238636&color=238636)
+
+---
  
 ---
 

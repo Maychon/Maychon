@@ -11,41 +11,35 @@
 ## $ uau
 
 <mesa>
-  <tr>
-    <td><forte>🧑‍💻 Papel</forte></td>
-    <td>
-      <imagem fonte="https://img.shields.io/badge/Full_Stack_Data_Professional-00F5FF?style=for-the-badge&rótuloCor=0D1117" />
-    </td>
-  </tr>
+<tr>
+<td><b>🧑‍💻 Papel</b></td>
+<td>Profissional de dados full stack</td>
+</tr>
 
-  <tr>
-    <td><forte>📍 Localização</forte></td>
-    <td>
-      <imagem fonte="https://img.shields.io/badge/Brasil_🇧🇷-444C56?style=for-the-badge&rótuloCor=0D1117" />
-    </td>
-  </tr>
+<tr>
+<td><b>📍 Localização</b></td>
+<td>Brasil 🇧🇷</td>
+</tr>
 
-  <tr>
-    <td><forte>🔄 Engenharia de Dados</forte></td>
-    <td>Oleodutos escaláveis de ponta a ponta</td>
-  </tr>
+<tr>
+<td><b>🔄 Engenharia de Dados</b></td>
+<td>Oleodutos escaláveis de ponta a ponta</td>
+</tr>
 
-  <tr>
-    <td><forte>🤖 Ciência de Dados</forte></td>
-    <td>Modelos preditivos orientados a negócio</td>
-  </tr>
+<tr>
+<td><b>🤖 Ciência de Dados</b></td>
+<td>Modelos preditivos orientados a negócio</td>
+</tr>
 
-  <tr>
-    <td><forte>📊 Análise</forte></td>
-    <td>Insights ativos que movem KPIs</td>
-  </tr>
+<tr>
+<td><b>📊 Análise</b></td>
+<td>Insights ativos que movem KPIs</td>
+</tr>
 
-  <tr>
-    <td><forte>🎯 Missão</forte></td>
-    <td>
-      <imagem fonte="https://img.shields.io/badge/Transformo_dados_em_decisões-00F5FF?style=for-the-badge&rótuloCor=0D1117" />
-    </td>
-  </tr>
+<tr>
+<td><b>🎯 Missão</b></td>
+<td>Transformo dados brutos em decisões estratégicas</td>
+</tr>
 </mesa>
 
 <br>
@@ -53,6 +47,10 @@
 > *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
 
 <br>
+
+![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end-238636?style=for-the-badge)
+
+---
 
 <imagem fonte="https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end-238636?style=for-the-badge" />
 

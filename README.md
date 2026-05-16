@@ -1,48 +1,79 @@
-<div align="center">
+<dividir alinhar="centro">
 
 ```
-███╗   ███╗ █████╗ ██╗   ██╗ ██████╗██╗  ██╗ ██████╗ ███╗   ██╗
-████╗ ████║██╔══██╗╚██╗ ██╔╝██╔════╝██║  ██║██╔═══██╗████╗  ██║
-██╔████╔██║███████║ ╚████╔╝ ██║     ███████║██║   ██║██╔██╗ ██║
-██║╚██╔╝██║██╔══██║  ╚██╔╝  ██║     ██╔══██║██║   ██║██║╚██╗██║
-██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╗██║  ██║╚██████╔╝██║ ╚████║
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+███╗ ███╗ █████╗ ██╗ ██╗ ██████╗██╗ ██╗
+████╗ ████║██╔══██╗╚██╗ ██╔╝██╔════╝██║ ██║██╔═══██╗████╗ ██║
+██╔████╔██║███████║ ╚████╔╝ ██║ ███████║██║ ██║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║ ╚██╔╝ ██║ ██╔══██║██║ ██║██║╚██╗██║
+██║ ╚═╝ ██║██║ ██║ ██║ ╚██████╗██║
+╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═════╝╚═╝ ╚═╝
 ```
 
-### `> Full Stack Data Professional`
+### `> Profissional de dados full stack`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Analytics+%7C+Data+Science;Pipelines+Escaláveis+%7C+Modelos+Preditivos;Transformando+Dados+Brutos+em+Decisões+Estratégicas)](https://git.io/typing-svg)
+[![Digitando SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Analytics+%7C+Data+Science;Pipelines+Escaláveis+%7C+Modelos+Preditivos;Transformando+Dados+Brutos+em+Decisões+Estratégicas)](https://git.io/typing-svg)
 
-</div>
+</dividir>
 
 ---
 
-## `$ whoami`
+## `$ uau`
 
-```python
-maychon_vilani = {
-    "role"      : "Full Stack Data Professional",
-    "location"  : "Brasil 🇧🇷",
-    "mission"   : "Transformo dados brutos em decisões estratégicas de negócio",
-    "approach"  : ["Pipelines Escaláveis", "Modelos Preditivos", "Insights Acionáveis"],
-    "focus"     : ["Data Engineering", "Analytics", "Data Science"],
-    "currently" : "Construindo soluções end-to-end orientadas a dados"
-}
-```
+<mesa fronteira="0" espaçamento entre células="0" preenchimento de células="0">
+<tr>
+<td>
+
+### Maychon Vilani
+**Profissional de dados full stack** &nbsp;·&nbsp; 🇧🇷 Brasil
+
+`Engenharia de Dados` &nbsp; `Análise` &nbsp; `Ciência de Dados`
+
+</td>
+</tr>
+</mesa>
+
+<br>
+
+<mesa fronteira="0" largura="100%">
+<tr>
+<td alinhar="centro" largura="33%" estilo="enchimento: 16px;">
+
+**🔄 Engenharia**
+<br><sub>Oleodutos escaláveis de ponta a ponta</sub>
+
+</td>
+<td alinhar="centro" largura="33%" estilo="enchimento: 16px;">
+
+**🤖 Ciência**
+<br><sub>Modelos preditivos orientados a negócio</sub>
+
+</td>
+<td alinhar="centro" largura="33%" estilo="enchimento: 16px;">
+
+**📊 Análise**
+<br><sub>Insights ativos que movem KPIs</sub>
+
+</td>
+</tr>
+</mesa>
+
+<br>
 
 > *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
 
+![Status](https://img.shields.io/badge/🟢_Atualmente-Construindo_soluções_end--to--end_orientadas_a_dados-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+
 ---
 
-## `$ tech --stack`
+## `$ tecnologia --pilha`
 
-### ⚡ Linguagens & Core
+### ⚡ Linguagens e Núcleo
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
 
-### ☁️ Cloud & Big Data
-![GCP](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4)
+### ☁️ Nuvem e Big Data
+![BPC](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Consulta Grande](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 
@@ -99,30 +130,30 @@ maychon_vilani = {
 - Dashboards interativos em **Power BI / Tableau**
 - Alertas automáticos para contratos críticos
 
-**Impacto:** Monitoramento proativo do porto, redução de contratos vencidos não renovados e aumento da visibilidade executiva.
+**Impacto:** Monitoramento proativo do portfólio, redução de contratos vencidos não renovados e aumento da visibilidade executiva.
 
-`Energia BI` `Quadro` `Consulta Grande` `SQL` `DAX`
+`Power BI` `Tableau` `BigQuery` `SQL` `DAX`
 
 </td>
 </tr>
 <tr>
-<td largura="50%" valign="topo">
+<td width="50%" valign="top">
 
 ### 🤖 Modelo Preditivo de Bonificação
-**Problema:** Projetos de bonificação realizados manualmente em plantas, sem precisão e com alto esforço operacional.
+**Problema:** Projeções de bonificação realizadas manualmente em planilhas, sem precisão e com alto esforço operacional.
 
 **Solução Tech:**
-- Feature Engineering sobre dados históricos de desempenho
-- Modelagem preditiva com **Scikit-aprender** (Regressão / Aumento de Gradiente)
-- Pipeline de inferência automatizada com **Fluxo de ar**
-- Saída integrada ao dashboard gerencial
+- Feature Engineering sobre dados históricos de performance
+- Modelagem preditiva com **Scikit-learn** (Regressão / Gradient Boosting)
+- Pipeline de inferência automatizado com **Airflow**
+- Output integrado ao dashboard gerencial
 
-**Impacto:** Projetos automatizados com alta acurácia, eliminando o retrabalho e dando à liderança visibilidade antecipada dos custos de bonificação.
+**Impacto:** Projeções automatizadas com alta acurácia, eliminando retrabalho e dando à liderança visibilidade antecipada dos custos de bonificação.
 
-`Python` `Scikit-aprender` `Fluxo de ar` `Consulta Grande` `Pandas`
+`Python` `Scikit-learn` `Airflow` `BigQuery` `Pandas`
 
 </td>
-<td largura="50%" valign="topo">
+<td width="50%" valign="top">
 
 ### 🚀 Em Construção...
 **Próximo projeto em desenvolvimento.**

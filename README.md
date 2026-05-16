@@ -8,28 +8,53 @@
 
 ---
 
-## `$ uau`
+## $ uau
 
-![Papel](https://img.shields.io/badge/Role-Full_Stack_Data_Professional-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF&logoColor=00F5FF)
-![Localização](https://img.shields.io/badge/Location-Brasil_🇧🇷-0D1117?style=for-the-badge&labelColor=0D1117&color=444C56)
+<mesa>
+  <tr>
+    <td><forte>🧑‍💻 Papel</forte></td>
+    <td>
+      <imagem fonte="https://img.shields.io/badge/Full_Stack_Data_Professional-00F5FF?style=for-the-badge&rótuloCor=0D1117" />
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td><forte>📍 Localização</forte></td>
+    <td>
+      <imagem fonte="https://img.shields.io/badge/Brasil_🇧🇷-444C56?style=for-the-badge&rótuloCor=0D1117" />
+    </td>
+  </tr>
 
-![Engenharia de Dados](https://img.shields.io/badge/🔄_Data_Engineering-Pipelines_escaláveis_end--to--end-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
+  <tr>
+    <td><forte>🔄 Engenharia de Dados</forte></td>
+    <td>Oleodutos escaláveis de ponta a ponta</td>
+  </tr>
 
-![Ciência de Dados](https://img.shields.io/badge/🤖_Data_Science-Modelos_preditivos_orientados_a_negócio-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
+  <tr>
+    <td><forte>🤖 Ciência de Dados</forte></td>
+    <td>Modelos preditivos orientados a negócio</td>
+  </tr>
 
-![Análise](https://img.shields.io/badge/📊_Analytics-Insights_acionáveis_que_movem_KPIs-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)
+  <tr>
+    <td><forte>📊 Análise</forte></td>
+    <td>Insights ativos que movem KPIs</td>
+  </tr>
 
-![Missão](https://img.shields.io/badge/🎯_Missão-Transformo_dados_brutos_em_decisões_estratégicas-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF)
+  <tr>
+    <td><forte>🎯 Missão</forte></td>
+    <td>
+      <imagem fonte="https://img.shields.io/badge/Transformo_dados_em_decisões-00F5FF?style=for-the-badge&rótuloCor=0D1117" />
+    </td>
+  </tr>
+</mesa>
 
 <br>
 
 > *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
 
-![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end_orientadas_a_dados-238636?style=flat-square&labelColor=238636&color=238636)
+<br>
 
----
+<imagem fonte="https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end-238636?style=for-the-badge" />
 
 ## `$ tecnologia --pilha`
 
@@ -53,32 +78,32 @@
 ![Quadro](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627)
 
 ### 🤖 Aprendizado de máquina
-![Scikit-aprender](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Aprender Scikit](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
 
-### 🛠️ Ferramentas & DevOps
+### 🛠️ Ferramentas e DevOps
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Código VS](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 ---
 
-## `$ ls ./projects --featured`
+## `$ ls ./projetos --destaque`
 
 ---
 
-![Project](https://img.shields.io/badge/01-Pipeline_ETL_|_Gestão_de_Contratos-00F5FF?style=for-the-badge&labelColor=161B22)
+![Projeto](https://img.shields.io/badge/01-Pipeline_ETL_|_Gestão_de_Contratos-00F5FF?style=for-the-badge&labelColor=161B22)
 
-![Problem](https://img.shields.io/badge/🔍_Problema-Dados_fragmentados_em_silos_(Salesforce,_SAP,_BigQuery)_sem_visibilidade_unificada-444C56?style=flat-square&labelColor=21262D)
+![Problema](https://img.shields.io/badge/🔍_Problema-Dados_fragmentados_em_silos_(Salesforce,_SAP,_BigQuery)_sem_visibilidade_unificada-444C56?style=flat-square&labelColor=21262D)
 
-![Solution](https://img.shields.io/badge/⚙️_Solução-Ingestão_multi--source_·_Airflow_·_Spark_·_Star_Schema_no_BigQuery-1F6FEB?style=flat-square&labelColor=21262D)
+![Solução](https://img.shields.io/badge/⚙️_Solução-Ingestão_multi--source_·_Airflow_·_Spark_·_Star_Schema_no_BigQuery-1F6FEB?style=flat-square&labelColor=21262D)
 
-![Impact](https://img.shields.io/badge/🚀_Impacto-Lead_time_de_insights_reduzido_de_dias_para_minutos-238636?style=flat-square&labelColor=21262D)
+![Impacto](https://img.shields.io/badge/🚀_Impacto-Lead_time_de_insights_reduzido_de_dias_para_minutos-238636?style=flat-square&labelColor=21262D)
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5FF)
-![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Fluxo de ar](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
 ![Spark](https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![GCP](https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=4285F4)

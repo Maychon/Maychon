@@ -8,16 +8,88 @@
 
 ---
 
-## $ uau
+## 🚀 $ uau
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117" />
-</p>
+<!-- CARD PRINCIPAL -->
+<table>
+<tr>
+<td>
+
+### 📊 GitHub Stats
+
+- ⭐ **Total Stars:** 1.6k  
+- 🧾 **Total Commits:** 413  
+- 🔀 **Total PRs:** 4  
+- ❗ **Total Issues:** 0  
+- 🤝 **Contributed to:** 5  
+
+</td>
+
+<td align="center">
+
+<!-- NOTA ESTILO A++ -->
+<img src="https://img.shields.io/badge/A%2B%2B-Performance-ff69b4?style=for-the-badge&logo=github" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td><b>🧑‍💻 Role</b></td>
+<td>Full Stack Data Professional</td>
+</tr>
+
+<tr>
+<td><b>📍 Location</b></td>
+<td>Brasil 🇧🇷</td>
+</tr>
+
+<tr>
+<td><b>🔄 Data Engineering</b></td>
+<td>Pipelines escaláveis end-to-end</td>
+</tr>
+
+<tr>
+<td><b>🤖 Data Science</b></td>
+<td>Modelos preditivos orientados a negócio</td>
+</tr>
+
+<tr>
+<td><b>📊 Analytics</b></td>
+<td>Insights acionáveis que movem KPIs</td>
+</tr>
+
+<tr>
+<td><b>🎯 Missão</b></td>
+<td>Transformo dados brutos em decisões estratégicas</td>
+</tr>
+</table>
+
+<br>
+
+> *"Dados sem contexto são ruído. Dados com engenharia, análise e ciência são vantagem competitiva."*
+
+<br>
+
+![Status](https://img.shields.io/badge/🟢_Status-Construindo_soluções_end--to--end-238636?style=for-the-badge)
+
+---
+
+<!-- OPCIONAL: STATS REAIS DO GITHUB -->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+
+</div>
 
 ---
 ## `$ tecnologia --pilha`

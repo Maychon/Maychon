@@ -2,35 +2,35 @@
 
 **`FullStack em Dados`**
 
-Sou apaixonado por dados e pelo poder que eles têm de transformar decisões. Com formação em Administração e Ciências Contábeis e pós-graduação em Banco de Dados e Business Intelligence, construí uma visão híbrida que conecta o mundo dos negativos à engenharia e análise de dados.
+Sou apaixonado por dados e pelo poder que eles têm de transformar decisões. Com formação em Administração e Ciências Contábeis e pós-graduação em Banco de Dados e Business Intelligence, construí uma visão híbrida que conecta o mundo dos negócios à engenharia e análise de dados.
 
-<p alinhar="esquerda">
+<p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <imagem 
-            alt="assinantes fazem youtube" 
-            título="Canal Inscreva-se no meu" 
-            fonte="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&rótulo=Inscreva-se&logotipo=vídeo&logoColor=branco&estilo=para o emblema&rótuloCor=CE4630"
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
-        <imagem 
-            alt="visualizações do youtube" 
-            título="Vizualizações no YouTube" 
-            fonte="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logotipo=olho&logoColor=branco&estilo=para o emblema&rótuloCor=C79600"
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&classificar=observadores de estrelas">
-        <imagem 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
             alt="Total de estrelas" 
-            título="Total de estrelas GitHub" 
-            fonte="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&estilo=para o emblema&rótuloCor=488207&logotipo=estrela&rótulo=estrelas"
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
-        <imagem 
+        <img 
             alt="Seguidores" 
-            título="Me siga no GitHub" 
-            fonte="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&rótuloCor=1155ba&estilo=para o emblema&logotipo=github&rótulo=Seguidores&logoColor=branco"
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -39,24 +39,24 @@ Sou apaixonado por dados e pelo poder que eles têm de transformar decisões. Co
 
 ### 🤖 Linguagens e Tecnologias
 
-<imagem 
- alinhar="esquerda" 
- alt="HTML"
- título="HTML" 
- largura="30px" 
- estilo="preenchimento direto: 10px;" 
- fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<imagem 
- alinhar="esquerda" 
- alt="CSS" 
- título="CSS"
- largura="30px" 
- estilo="preenchimento direto: 10px;" 
- fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<imagem 
-    alinhar="esquerda" 
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 

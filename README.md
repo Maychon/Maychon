@@ -1,83 +1,54 @@
-# 👩🏻‍💻 Maychon Villani
+# 👩🏻‍💻 Olá, eu sou Maychon Villani
 
-**`FullStack em Dados`**
+## 🧠 Full-Stack em Dados | Engenheiro de Dados | Engenheiro Analítico
 
-Sou apaixonado por dados e pelo poder que eles têm de transformar decisões. Com formação em Administração e Ciências Contábeis e pós-graduação em Banco de Dados e Business Intelligence, construí uma visão híbrida que conecta o mundo dos negócios à engenharia e análise de dados.
+Sou apaixonado por transformar dados brutos em insights estratégicos. Com formação em **Administração** e **Ciências Contábeis** e pós-graduação em **Banco de Dados** e **Inteligência Empresarial**, construí uma visão híbrida que une **negócios**, **engenharia de dados** e **análise avançada**.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Atualmente foco em projetos de **Gasoduto de dados**, **Modelagem de Dados**, **Pais Interativos** e **Governança de Dados**, utilizando como melhores práticas de **ETL/ELT** e **Computação em Nuvem**.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
+<imagem 
+    alinhar="esquerda" 
     alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    título="HTML" 
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
+<imagem 
+    alinhar="esquerda" 
     alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    título="CSS"
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
+<imagem 
+    alinhar="esquerda" 
     alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    título="JavaScript"
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
+<imagem 
+    alinhar="esquerda" 
     alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    título="TypeScript" 
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+<imagem 
+    alinhar="esquerda" 
+    alt="Reagir"
+    título="Reagir" 
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 

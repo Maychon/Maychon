@@ -8,24 +8,21 @@ Atualmente foco em projetos de **Pipeline de dados**, **Modelagem de Dados**, **
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Ferramentas e Tecnologias de Dados
 
-<!-- Ícones das tecnologias (front-end + dados) -->
 <p alinhar="esquerda">
-  <imagem alinhar="esquerda" alt="HTML" título="HTML" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <imagem alinhar="esquerda" alt="CSS" título="CSS" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <imagem alinhar="esquerda" alt="JavaScript" título="JavaScript" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <imagem alinhar="esquerda" alt="TypeScript" título="TypeScript" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <imagem alinhar="esquerda" alt="Reagir" título="Reagir" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <imagem alinhar="esquerda" alt="Próximo.js" título="Próximo.js" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <imagem alinhar="esquerda" alt="Bootstrap" título="Bootstrap" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <imagem alinhar="esquerda" alt="Vento de cauda" título="Vento de cauda" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <imagem alinhar="esquerda" alt="Atrevimento" título="Atrevimento" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <imagem alinhar="esquerda" alt="PHP" título="PHP" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <imagem alinhar="esquerda" alt="Laravel" título="Laravel" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <imagem alinhar="esquerda" alt="jQuery" título="jQuery" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-  <imagem alinhar="esquerda" alt="Git" título="Git" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <imagem alinhar="esquerda" alt="Python" título="Python" largura="30px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <imagem alinhar="esquerda" alt="Python" título="Python" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <imagem alinhar="esquerda" alt="SQL" título="SQL" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <imagem alinhar="esquerda" alt="Git" título="Git" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <imagem alinhar="esquerda" alt="Excel" título="Excel" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg" />
+  <imagem alinhar="esquerda" alt="Power BI" título="Power BI" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+  <imagem alinhar="esquerda" alt="Quadro" título="Quadro" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" />
+  <imagem alinhar="esquerda" alt="Google Nuvem" título="Google Nuvem" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <imagem alinhar="esquerda" alt="Azul" título="Azul" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <imagem alinhar="esquerda" alt="Fluxo de ar do Apache" título="Fluxo de ar do Apache" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+  <imagem alinhar="esquerda" alt="Apache Spark" título="Apache Spark" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+  <imagem alinhar="esquerda" alt="dbt" título="dbt" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" />
+  <imagem alinhar="esquerda" alt="Docker" título="Docker" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </p>
 
 <br claro="esquerda"/>
@@ -33,11 +30,11 @@ Atualmente foco em projetos de **Pipeline de dados**, **Modelagem de Dados**, **
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p alinhar="esquerda">
   <imagem alinhar="esquerda" alt="Estatísticas do GitHub" alta="200" estilo="preenchimento direto:10px;" fonte="https://github-readme-stats.vercel.app/api?username=Maychon&maisrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&localidade=pt-br" />
-  <imagem alinhar="esquerda" alt="Melhores Linguagens" alta="200" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&tema=tokyonight&layout=compacto&custom_title=Tecnologias&contagem_langs=9" />
+  <imagem alinhar="esquerda" alt="Melhores Linguagens" alta="200" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&tema=tokyonight&layout=compacto&custom_title=Tecnologias&contagem_langs=6" />
 </p>
 
 <br claro="esquerda"/>
@@ -45,12 +42,13 @@ Atualmente foco em projetos de **Pipeline de dados**, **Modelagem de Dados**, **
 
 ---
 
-### 🚀 Projetos em Destaque (em breve)
+### 🚀 Projetos em Destaque
 
 - **[Pipeline de Dados com Airflow + BigQuery]** – Organização e transformação de dados no GCP.
 - **[Papel de Vendas com Power BI]** – Modelagem dimensional e visualizações interativas.
 - **[ETL com Python e Spark]** – Processamento de grandes volumes para câmera analítica.
 - **[Governança com dbt]** – Documentação, testes e versão de modelos SQL.
+- **[Análise Exploratória com Python e SQL]** – Extração de insights e relatórios automatizados.
 
 ---
 

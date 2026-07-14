@@ -4,50 +4,47 @@
 
 Sou apaixonado por transformar dados brutos em insights estratégicos. Com formação em **Administração** e **Ciências Contábeis** e pós-graduação em **Banco de Dados** e **Inteligência Empresarial**, construí uma visão híbrida que une **negócios**, **engenharia de dados** e **análise avançada**.
 
-Atualmente foco em projetos de **Pipeline de dados**, **Modelagem de Dados**, **Pais Interativos** e **Governança de Dados**, utilizando como melhores práticas de **ETL/ELT** e **Computação em Nuvem**.
+Atualmente foco em projetos de **Data Pipeline**, **Modelagem de Dados**, **Dashboards Interativos** e **Governança de Dados**, utilizando como melhores práticas de **ETL/ELT** e **Computação em Nuvem**.
 
 ---
 
 ### 🤖 Ferramentas e Tecnologias de Dados
 
-<p alinhar="esquerda">
-  <imagem alinhar="esquerda" alt="Python" título="Python" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <imagem alinhar="esquerda" alt="SQL" título="SQL" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <imagem alinhar="esquerda" alt="Git" título="Git" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <imagem alinhar="esquerda" alt="Excel" título="Excel" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg" />
-  <imagem alinhar="esquerda" alt="Power BI" título="Power BI" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
-  <imagem alinhar="esquerda" alt="Quadro" título="Quadro" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" />
-  <imagem alinhar="esquerda" alt="Google Nuvem" título="Google Nuvem" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <imagem alinhar="esquerda" alt="Azul" título="Azul" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <imagem alinhar="esquerda" alt="Fluxo de ar do Apache" título="Fluxo de ar do Apache" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
-  <imagem alinhar="esquerda" alt="Apache Spark" título="Apache Spark" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
-  <imagem alinhar="esquerda" alt="dbt" título="dbt" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" />
-  <imagem alinhar="esquerda" alt="Docker" título="Docker" largura="40px" estilo="preenchimento direto:10px;" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<!-- Badges gerados via shields.io -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
-<br claro="esquerda"/>
-<br/>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<p alinhar="esquerda">
-  <imagem alinhar="esquerda" alt="Estatísticas do GitHub" alta="200" estilo="preenchimento direto:10px;" fonte="https://github-readme-stats.vercel.app/api?username=Maychon&maisrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&localidade=pt-br" />
-  <imagem alinhar="esquerda" alt="Melhores Linguagens" alta="200" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&tema=tokyonight&layout=compacto&custom_title=Tecnologias&contagem_langs=6" />
+<p align="left">
+  <img align="left" alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Maychon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Linguagens" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
 </p>
 
-<br claro="esquerda"/>
-<br/>
+<br clear="left"/>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-- **[Pipeline de Dados com Airflow + BigQuery]** – Organização e transformação de dados no GCP.
-- **[Papel de Vendas com Power BI]** – Modelagem dimensional e visualizações interativas.
-- **[ETL com Python e Spark]** – Processamento de grandes volumes para câmera analítica.
-- **[Governança com dbt]** – Documentação, testes e versão de modelos SQL.
+- **[Pipeline de Dados com Airflow + BigQuery]** – Orquestração e transformação de dados na GCP.
+- **[Dashboard de Vendas com Power BI]** – Modelagem dimensional e visualizações interativas.
+- **[ETL com Python e Spark]** – Processamento de grandes volumes para camada analítica.
+- **[Governança com dbt]** – Documentação, testes e versionamento de modelos SQL.
 - **[Análise Exploratória com Python e SQL]** – Extração de insights e relatórios automatizados.
 
 ---
@@ -60,4 +57,4 @@ Atualmente foco em projetos de **Pipeline de dados**, **Modelagem de Dados**, **
 
 ---
 
-> *“Dados são o novo petróleo, mas só tempos valor se forem refinados, transformados e usados para tomar decisões melhores.”*
+> *“Dados são o novo petróleo, mas só têm valor se forem refinados, transformados e usados para tomar decisões melhores.”*

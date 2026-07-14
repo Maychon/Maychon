@@ -30,9 +30,10 @@ Atualmente foco em projetos de **Data Pipeline**, **Modelagem de Dados**, **Dash
 
 ### 📊 Estatísticas do GitHub
 
+<!-- Cards alternativos que funcionam mesmo com o github-readme-stats pausado -->
 <p align="left">
-  <img align="left" alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Maychon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Linguagens" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maychon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
+  <img align="left" alt="Streak Stats" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maychon&theme=tokyonight" />
+  <img align="left" alt="Profile Summary" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maychon&theme=tokyonight" />
 </p>
 
 <br clear="left"/>
